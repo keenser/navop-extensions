@@ -36,6 +36,11 @@
               "label": "General",
               "fields": [
                 {
+                  "id": "icon",
+                  "label": "Icon",
+                  "fieldType": "Icon"
+                },
+                {
                   "id": "target",
                   "label": "Target",
                   "fieldType": "Text",
